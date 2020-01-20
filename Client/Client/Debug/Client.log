@@ -1,0 +1,18 @@
+﻿cl : 命令行 warning D9007: “/Gm”需要“/Zi 或 /ZI”；选项被忽略
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+cl : 命令行 warning D9007: “/Gm”需要“/Zi 或 /ZI”；选项被忽略
+  ChatDlg.cpp
+  ChatPacket.cpp
+c:\users\administrator\desktop\07\7.11\client\chatpacket.cpp(54): warning C4244: “初始化”: 从“__time64_t”转换到“long”，可能丢失数据
+  ChatSocket.cpp
+  Client.cpp
+c:\users\administrator\desktop\07\7.11\client\client.cpp(58): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\atlmfc\include\afxwin.h(5229): note: 参见“CWinApp::Enable3dControls”的声明
+  ClientDlg.cpp
+  ClientLogin.cpp
+  ListenSocket.cpp
+  UserInfo.cpp
+c:\users\administrator\desktop\07\7.11\client\userinfo.cpp(63): warning C4244: “初始化”: 从“__time64_t”转换到“long”，可能丢失数据
+  正在生成代码...
+  Client.vcxproj -> C:\Users\Administrator\Desktop\07\7.11\Client\.\Debug\Client.exe
